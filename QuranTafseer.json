@@ -1,0 +1,53 @@
+{
+  "city": "QuranTafseer",
+  "stations": [
+        {
+      "name": "Tafseer 1",
+      "url": "http://s9.viastreaming.net:9645/;stream/1"
+    },
+    {
+      "name": "Tafseer 2",
+      "url": "http://66.45.232.131:9990/stream?type=http&nocache=574600"
+    },
+    {
+      "name": "Tafseer English",
+      "url": "https://icecast.livemasjid.com/annoor-relay"
+    },
+    {
+      "name": "Tafseer Islam",
+      "url": "http://66.45.232.131:9992/stream?type=http&nocache=264790"
+    },
+    {
+      "name": "Islam2day 1",
+      "url": "http://islam2day.tv:6000"
+    },
+    {
+      "name": "Islam2day 2",
+      "url": "http://islam2day.tv:5000"
+    },
+    {
+      "name": "Islam2day 3",
+      "url": "http://islam2day.tv:8000"
+    },
+    {
+      "name": "Islam2day 4",
+      "url": "http://islam2day.tv:7000"
+    },
+    {
+      "name": "Islam2day 5",
+      "url": "http://islam2day.tv:3000"
+    },
+    {
+      "name": "Islam2day 6",
+      "url": "http://islam2day.tv:4000"
+    },
+    {
+      "name": "Tafseer Mymasjid",
+      "url": "http://lb.mymasjid.stream/flc"
+    },
+    {
+      "name": "Voice of Islam",
+      "url": "https://s6.voscast.com:9981/stream"
+    }
+  ]
+}
