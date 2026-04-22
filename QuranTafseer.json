@@ -1,7 +1,11 @@
 {
   "city": "QuranTafseer",
   "stations": [
-        {
+      {
+      "name": "Tafseer Atheer 1",
+      "url": "http://backup.qurango.net/radio/mukhtasartafsir"
+    },  
+    {
       "name": "Tafseer 1",
       "url": "http://s9.viastreaming.net:9645/;stream/1"
     },
