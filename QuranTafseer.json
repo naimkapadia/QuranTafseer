@@ -49,10 +49,7 @@
     {
       "name": "Voice of Islam",
       "url": "https://s6.voscast.com:9981/stream"
-    },
-    {
-    "name": "Somali As-saadi",
-      "url": "http://api.spreaker.com/v2/episodes/71802979/ondemand.mp3"
     }
+ 
   ]
 }
